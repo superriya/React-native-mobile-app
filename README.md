@@ -56,8 +56,8 @@ https://github.com/itzpradip/react-native-firebase-social-app
 
 ### React Native Firebase Installation 
 - Install via NPM
-    # Using npm
-    - npm install --save @react-native-firebase/app
+### Using npm
+- npm install --save @react-native-firebase/app
 
 ### Authentication 
 <!-- https://www.youtube.com/watch?v=J7pkSP18Oko&t=833s -->
