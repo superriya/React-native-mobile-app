@@ -82,5 +82,5 @@ IOS setup
 *** Button navigator ***
     npm install @react-navigation/bottom-tabs
 
-*** Material  Button navigator ***
-    npm install @react-navigation/material-bottom-tabs react-native-paper
+### Material  Button navigator 
+- npm install @react-navigation/material-bottom-tabs react-native-paper
